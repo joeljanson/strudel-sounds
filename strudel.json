@@ -2,5 +2,6 @@
 	"_base": "https://raw.githubusercontent.com/joeljanson/strudel-sounds/master/",
 	"piccioni": "piccioni.wav",
 	"beautiful": "beautiful.wav",
-	"tombolacello": "tombolacello.mp3"
+	"tombolacello": "tombolacello.mp3",
+	"f#": "fsharp.mp3"
 }
